@@ -1,2 +1,4 @@
 # samples フォルダは要らない
 samples/
+# data フォルダは要らない
+data/

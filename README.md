@@ -11,3 +11,4 @@
   - 関連文献 :
     - Sequence Modeling With CTC https://distill.pub/2017/ctc/
     - Edit distance https://en.wikipedia.org/wiki/Edit_distance
+- Image segmentation with a U-Net-like architecture
